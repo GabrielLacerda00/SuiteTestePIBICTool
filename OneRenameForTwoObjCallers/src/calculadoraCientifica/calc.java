@@ -3,7 +3,7 @@ public class calc {
     
   }
   
-  public double soma() {
+  public double sum() {
       return 1.0 + 2.0;
   }
 }
