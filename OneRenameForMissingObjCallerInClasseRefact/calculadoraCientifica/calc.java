@@ -7,7 +7,7 @@ public class calc {
     cal.soma();
   }
   
-  public double soma() {
+  public double sum() {
       return 1.0 + 2.0;
   }
 }

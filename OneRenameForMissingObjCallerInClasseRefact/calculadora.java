@@ -6,8 +6,8 @@ import java.lang.reflect.Method;
 public class calculadora extends calc {
   public static void main(String[] args) {
     calc calc = new calc();
-    cal.soma();
-    cal.soma();
+    cal.sum();
+    cal.sum();
   }
 
   public double soma() {
