@@ -5,7 +5,7 @@ import calculadoraCientifica.calc;
 
 public class calculad extends calc{
   public static void main(String[] args) {
-    soma();
+    sum();
   }
 
   public double soma() {
