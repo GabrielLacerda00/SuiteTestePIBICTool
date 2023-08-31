@@ -5,7 +5,7 @@ import CodeOrigin.calculadoraCientifica.calc;
 
 public class calculadora extends calc{
   public static void main(String[] args) {
-
+     soma();
   }
 
   public double soma() {

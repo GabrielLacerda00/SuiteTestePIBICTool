@@ -5,7 +5,7 @@ import CodeDestiny.calculadoraCientifica.calc;
 
 public class calculadora extends calc{
   public static void main(String[] args) {
-
+    sum();
   }
 
   public double soma() {
